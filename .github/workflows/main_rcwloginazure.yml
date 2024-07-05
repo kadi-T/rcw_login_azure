@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'rcwloginazure'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_46D72C5FEA0C4A0889F3EFD91FE5265A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BE5D2F2BD75B4CBD96DCF558781124FA }}
